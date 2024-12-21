@@ -6,6 +6,8 @@ This project aims to incentivize the creation of study guides for popular topics
 
 ## Contract Address
 0x23486af03fc970Fc26EACA308fE97a578b9dee77
+![image](https://github.com/user-attachments/assets/43e07634-19e9-4377-b104-08c45fb5f1b0)
+
 
 ## Project Vision
 The vision of this project is to create a decentralized platform where knowledge sharing is encouraged and rewarded. By leveraging blockchain technology, we can ensure transparency, fairness, and security in rewarding content creators for their valuable contributions. This initiative aims to foster a collaborative and resourceful educational community.
